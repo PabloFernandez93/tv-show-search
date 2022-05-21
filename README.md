@@ -1,4 +1,3 @@
-With this exercise we can practice several things regarding API's and Axios:
 
 - Working with an API https://www.tvmaze.com/api
 - Practice with making requests via API (using https://hoppscotch.io/ )
